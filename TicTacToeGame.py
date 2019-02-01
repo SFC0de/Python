@@ -1,8 +1,11 @@
-'''
+"""
 This is a game of Tic Tac Toe. 
+
+It is made solely with functions.
+
 Simply run this in your command prompt or terminal 
 with its respective commands to give it a try!
-'''
+"""
 
 # This function is to display the board
 def display_board(board):
