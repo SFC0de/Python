@@ -1,3 +1,4 @@
+This is an old repo! Please see the new one.
 # This is a collection of my mini projects done with Python and machine learning!
 
 # Feel free to browse around. (:
